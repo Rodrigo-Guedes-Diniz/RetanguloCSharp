@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.exe.config
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.exe
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.pdb
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.exe
+C:\Users\rodri\source\repos\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.pdb
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.exe.config
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.exe
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.pdb
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.csproj.AssemblyReference.cache
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.exe
+C:\Work\Projects\C#\POO C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.pdb
